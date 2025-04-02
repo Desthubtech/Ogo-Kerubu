@@ -155,5 +155,9 @@
     nav ul li {
       margin: 10px 0;
     }
+    header h1 {
+    font-size: 1em;
+    }
+
   }
   
